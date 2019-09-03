@@ -1,0 +1,14 @@
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\bin\Debug\netcoreapp2.2\Capstone5-CarDealership.deps.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\bin\Debug\netcoreapp2.2\Capstone5-CarDealership.runtimeconfig.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\bin\Debug\netcoreapp2.2\Capstone5-CarDealership.runtimeconfig.dev.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\bin\Debug\netcoreapp2.2\Capstone5-CarDealership.dll
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\bin\Debug\netcoreapp2.2\Capstone5-CarDealership.pdb
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.csprojAssemblyReference.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.RazorAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.RazorAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.AssemblyInfoInputs.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.AssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.RazorTargetAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.dll
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealership\Capstone5-CarDealership\obj\Debug\netcoreapp2.2\Capstone5-CarDealership.pdb
